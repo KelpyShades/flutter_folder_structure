@@ -1,6 +1,6 @@
 {
 	"Flutter Folder Structure Template Task": {
-		"scope": "json",
+		"scope": "dart,json",
 		"prefix": "fluttertemp",
 		"body": [
 			"{",
