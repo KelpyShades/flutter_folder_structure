@@ -23,10 +23,12 @@ const files = {
   "lib/core/config/theme.dart": "",
   "lib/features/feature1/feature1.dart": "",
   "lib/features/feature1/data/datasource.dart": "",
+  "lib/features/feature1/data/model.dart": "",
   "lib/features/feature1/data/repository.dart": "",
   "lib/features/feature1/logic/provider.dart": "",
   "lib/features/feature2/feature2.dart": "",
   "lib/features/feature2/data/datasource.dart": "",
+  "lib/features/feature2/data/model.dart": "",
   "lib/features/feature2/data/repository.dart": "",
   "lib/features/feature2/logic/provider.dart": "",
 };
